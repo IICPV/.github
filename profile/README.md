@@ -1,4 +1,4 @@
-![logo](assets/logo.png)
+![logo](assets/logo-1683393059787-1.png)
 
 # Welcome to IICPV
 
